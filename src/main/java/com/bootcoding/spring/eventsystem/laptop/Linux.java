@@ -6,5 +6,6 @@ import org.springframework.stereotype.Component;
 public class Linux {
     public Linux(){
         System.out.println("I'm In Linux Class");
+        
     }
 }
